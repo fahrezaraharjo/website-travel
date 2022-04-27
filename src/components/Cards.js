@@ -10,35 +10,35 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
+              src='images/41593.webp'
+              text='Explore the most Interesting Menu Food'
+              label='Cafe'
               path='/services'
             />
             <CardItem
-              src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
+              src='images/istockphoto-1323139676-170667a.jpg'
+              text='Using Comfortable Meeting Rooms'
+              label='Meeting Rooms'
               path='/services'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path='/services'
+              src='images/usaha-kecil-menengah-bidang-kuliner-1.jpg'
+              text='Unique Stuff Can Grab From Here'
+              label='UMKM'
+              path='/service'
             />
             <CardItem
-              src='images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
+              src='images/photo-1471341971476-ae15ff5dd4ea.jpeg'
+              text='spacious studio waiting for you to be creative'
+              label='Studio'
               path='/products'
             />
             <CardItem
-              src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
+              src='images/photo-1414235077428-338989a2e8c0.jpeg'
+              text='Nothing brings people together like good food'
+              label='Restaurant'
               path='/sign-up'
             />
           </ul>

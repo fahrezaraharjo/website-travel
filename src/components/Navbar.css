@@ -1,5 +1,5 @@
 .navbar {
-  background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+  background: linear-gradient(90deg, #e1e1e1 0%, rgb(79 1 124) 100%);
   height: 80px;
   display: flex;
   justify-content: center;
@@ -144,7 +144,7 @@
     text-decoration: none;
     font-size: 1.5rem;
     background-color: transparent;
-    color: #fff;
+    color: rgb(13, 12, 12);
     padding: 14px 20px;
     border: 1px solid #fff;
     transition: all 0.3s ease-out;
